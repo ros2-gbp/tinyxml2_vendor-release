@@ -1,3 +1,26 @@
+## tinyxml2_vendor (rolling) - 0.7.5-1
+
+The packages in the `tinyxml2_vendor` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --track rolling --rosdistro rolling tinyxml2_vendor` on `Tue, 05 Apr 2022 17:30:03 -0000`
+
+The `tinyxml2_vendor` package was released.
+
+Version of package(s) in repository `tinyxml2_vendor`:
+
+- upstream repository: https://github.com/ros2/tinyxml2_vendor.git
+- release repository: https://github.com/ros2-gbp/tinyxml2_vendor-release.git
+- rosdistro version: `0.7.4-2`
+- old version: `0.7.4-2`
+- new version: `0.7.5-1`
+
+Versions of tools used:
+
+- bloom version: `0.10.7`
+- catkin_pkg version: `0.4.24`
+- rosdep version: `0.21.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## tinyxml2_vendor (foxy) - 0.7.4-1
 
 The packages in the `tinyxml2_vendor` repository were released into the `foxy` distro by running `/usr/bin/bloom-release --track foxy --rosdistro foxy tinyxml2_vendor` on `Thu, 18 Mar 2021 13:51:46 -0000`
