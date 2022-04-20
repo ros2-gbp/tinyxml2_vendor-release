@@ -1,1 +1,1 @@
-{"base": "33a8a02", "parent": "debian/rolling/tinyxml2_vendor", "previous": "9d2118e", "trim": "", "trimbase": ""}
+{"base": "585be6a", "parent": "debian/humble/tinyxml2_vendor", "previous": "093c759", "trim": "", "trimbase": ""}
