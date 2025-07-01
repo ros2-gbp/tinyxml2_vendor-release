@@ -1,0 +1,22 @@
+ros-rolling-tinyxml2-vendor (0.11.1-1bookworm) bookworm; urgency=high
+
+  * Fix CMake deprecation (#24 <https://github.com/ros2/tinyxml2_vendor/issues/24>)
+  * fix: use path to tinyxml2 if it's the only item in TINYXML2_LIBRARY (#23 <https://github.com/ros2/tinyxml2_vendor/issues/23>)
+  * Contributors: Esteve Fernandez, mosfet80
+
+ -- Scott K Logan <scott@openrobotics.org>  Tue, 01 Jul 2025 00:00:00 -0000
+
+ros-rolling-tinyxml2-vendor (0.11.0-1bookworm) bookworm; urgency=high
+
+  * Remove CODEOWNERS and mirror-rolling-to-master workflow. (#20 <https://github.com/ros2/tinyxml2_vendor/issues/20>)
+  * Contributors: Chris Lalancette
+
+ -- Scott K Logan <scott@openrobotics.org>  Fri, 25 Apr 2025 00:00:00 -0000
+
+ros-rolling-tinyxml2-vendor (0.10.0-1bookworm) bookworm; urgency=high
+
+
+
+ -- Scott K Logan <scott@openrobotics.org>  Mon, 29 Apr 2024 00:00:00 -0000
+
+
